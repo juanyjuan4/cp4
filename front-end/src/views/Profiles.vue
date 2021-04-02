@@ -104,7 +104,7 @@ export default {
     justify-content: space-between;
 }
 
-.biop textarea, p {
+.biop textarea, .biop p {
     margin: 10px;
     text-align: right;
 }
